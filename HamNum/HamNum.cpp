@@ -12,6 +12,8 @@ using namespace std;
 
 int* Fn1(int count)
 {
+
+
 	if (count <= 0)
 		return nullptr;
 	int *Xam=new int[count];
